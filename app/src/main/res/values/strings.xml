@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">user_app</string>
+    <string name="emergency_help">After pressing the sos button, we will contact the nearest ambulance driver or any volunteer to your current location.</string>
+    <string name="help_message">Please standby, we are currently requesting for help.</string>
+</resources>
